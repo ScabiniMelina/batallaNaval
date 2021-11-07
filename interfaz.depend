@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574297277 source:e:\colegio\codeblocks\clase11\interfaz\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1574422015 source:g:\colegio\codeblocks\clase11\interfaz\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
